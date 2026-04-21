@@ -1,0 +1,16 @@
+{
+  "student_name": "Kayan",
+  "selected_classes": [
+    "basketball",
+    "biking",
+    "tennis_swing"
+  ],
+  "class_to_index": {
+    "basketball": 0,
+    "biking": 1,
+    "tennis_swing": 2
+  },
+  "sequence_length": 8,
+  "image_size": 112,
+  "test_accuracy": 0.978
+}
