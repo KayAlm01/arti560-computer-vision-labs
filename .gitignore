@@ -14,3 +14,4 @@ lab07-action-recognition/UCF11_updated_mpg.rar
 lab07-action-recognition/UCF11_updated_mpg/
 lab07-action-recognition/validation_videos/
 *.mpg
+lab08-pose-estimation/pose/mpi/pose_iter_160000.caffemodel
